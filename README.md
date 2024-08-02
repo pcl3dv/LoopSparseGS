@@ -1,6 +1,6 @@
 # LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting
 
-[Paper](https://arxiv.org/abs/2408.00254) | Project | Dataset | Code ( is coming soon... )
+[Paper](https://arxiv.org/abs/2408.00254) | [Project](https://zhenybao.github.io/LoopSparseGS) | Dataset | Code ( is coming soon... )
 
 ![image](assets/comparison.gif)
 
