@@ -1,16 +1,17 @@
 # LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting
 
-The official repository of LoopSparseGS.
-
-[Paper](https://arxiv.org/abs/2408.00254) | Project | Dataset
-
-![image](assets/main.png)
-
-## 3-View Novel View Synthesis
+[Paper](https://arxiv.org/abs/2408.00254) | Project | Dataset | Code ( is coming soon... )
 
 ![image](assets/comparison.gif)
 
+
+
+# Quantitative comparison
+
+![image](assets/metrix1.png)
+
 ## Citation
+
 Cite as below if you find this repository is helpful to your project:
 ```
 @misc{bao2024loopsparsegsloopbasedsparseview,
