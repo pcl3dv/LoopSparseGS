@@ -6,6 +6,10 @@ The official repository of LoopSparseGS.
 
 ![image](assets/main.png)
 
+## 3-View Novel View Synthesis
+
+![image](assets/comparison.gif)
+
 ## Citation
 Cite as below if you find this repository is helpful to your project:
 ```
