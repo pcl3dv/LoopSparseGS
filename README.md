@@ -10,6 +10,22 @@
 
 ![image](assets/metrix1.png)
 
+
+
+![image](assets/metrix2.png)
+
+
+
+# Qualitative comparison
+
+![image](assets/visual1.png)
+
+
+
+![image](assets/visual2.png)
+
+
+
 ## Citation
 
 Cite as below if you find this repository is helpful to your project:
