@@ -3,7 +3,7 @@
 <h1>LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting </h1>
 
 <div>
-    Zhenyu Bao<sup>1</sup> Guibiao Liao<sup>1,* </sup>, Kaichen Zhou<sup>1</sup>, Kanglin Liu<sup>2</sup>,  Qing Li<sup>2,* </sup> , Guoping Qiu<sup>3</sup>
+    Zhenyu Bao<sup>1</sup>,  Guibiao Liao<sup>1,*</sup>,  Kaichen Zhou<sup>1</sup>,  Kanglin Liu<sup>2</sup>,  Qing Li<sup>2,*</sup>,  Guoping Qiu<sup>3</sup>
 </div>
 
 <div>
