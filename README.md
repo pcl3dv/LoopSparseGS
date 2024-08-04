@@ -27,6 +27,16 @@
 
 ![image](assets/comparison.gif)
 
+# About LoopSparseGS
+
+<div>
+    LoopSparseGS is a loop-based 3DGS framework for the sparse novel view synthesis task. In specfic, we propose a loop-based 
+    Progressive Gaussian Initialization (PGI) strategy that could iteratively densify the initialized point cloud using the rendered 
+    pseudo images during the training process. Then, the sparse and reliable depth from the Structure from Motion, 
+    and the window-based dense monocular depth are leveraged to provide precise geometric supervision via the proposed 
+    Depth-alignment Regularization (DAR). Additionally, we introduce a novel Sparse-friendly Sampling (SFS) strategy to 
+    handle oversized Gaussian ellipsoids leading to large pixel errors.
+</div>
 
 
 # Quantitative comparison
