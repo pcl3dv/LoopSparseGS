@@ -29,7 +29,22 @@
 
 <br>
 
-# About LoopSparseGS
+# 3D Gaussian Splatting in Sparse Setting
+<div>
+    Despite the photorealistic novel view synthesis (NVS) performance achieved by the original 3D Gaussian splatting (3DGS), 
+    its rendering quality significantly degrades with sparse input views. This performance drop is mainly caused by several challenges. 
+    Firstly, given the sparse input views, the initial Gaussian points provided by Structure from Motion (SfM) can be sparse and inadequate, 
+    as shown in follow figure (top left). 
+    Secondly, reconstructing the appearance and geometry of scenes becomes an under-constrained and ill-posed issue with insufficient inputs with only the image reconstruction constraints. 
+    Thirdly, the scales of some Gaussians grow to be very large during the optimization process, 
+    and these oversized Gaussian ellipsoids result in the overfitting problem, thus producing unsatisfactory results at novel viewpoints as illustrated in follow figure (top middle).
+</div>
+
+<br>
+
+![image](assets/main.png)
+
+# LoopSparseGS Method
 <div>
     LoopSparseGS is a loop-based 3DGS framework for the sparse novel view synthesis task. In specfic, we propose a loop-based 
     Progressive Gaussian Initialization (PGI) strategy that could iteratively densify the initialized point cloud using the rendered 
