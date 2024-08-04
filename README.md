@@ -40,6 +40,9 @@
     handle oversized Gaussian ellipsoids leading to large pixel errors.
 </div>
 
+![image](assets/teaser.png)
+
+<br>
 
 # Quantitative comparison
 
