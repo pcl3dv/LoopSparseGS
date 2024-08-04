@@ -42,7 +42,7 @@
 
 <br>
 
-![image](assets/main.png)
+![image](assets/teaser.png)
 
 # LoopSparseGS Method
 <div>
@@ -56,7 +56,7 @@
 
 <br>
 
-![image](assets/teaser.png)
+![image](assets/main.png)
 
 
 
