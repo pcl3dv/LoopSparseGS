@@ -38,7 +38,9 @@
     Depth-alignment Regularization (DAR). Additionally, we introduce a novel Sparse-friendly Sampling (SFS) strategy to 
     handle oversized Gaussian ellipsoids leading to large pixel errors.
 </div>
+
 <br>
+
 ![image](assets/teaser.png)
 
 
