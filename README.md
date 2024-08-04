@@ -4,15 +4,17 @@
 
 <div>
     Zhenyu Bao<sup>1</sup>&emsp;
-    Guibiao Liao<sup>1,*</sup>&emsp;
+    Guibiao Liao<sup>1, *</sup>&emsp;
     Kaichen Zhou<sup>1</sup>&emsp;
     Kanglin Liu<sup>2</sup>&emsp;
-    Qing Li<sup>2,*</sup>&emsp;
+    Qing Li<sup>2, *</sup>&emsp;
     Guoping Qiu<sup>3</sup>
 </div>
 
 <div>
-    <sup>1</sup>Peking University    <sup>2</sup>Pengcheng Laboratory    <sup>3</sup>University of Nottingham
+    <sup>1</sup>Peking University&emsp;
+    <sup>2</sup>Pengcheng Laboratory&emsp;
+    <sup>3</sup>University of Nottingham
 </div>
 
 <div>
