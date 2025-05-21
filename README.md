@@ -72,7 +72,6 @@ cd LoopSparseGS
 python tools/pre_llff.py
 ```
 
-<br>
 
 ## Training
 The training paradigm is:
@@ -116,18 +115,18 @@ The following code can be used for any additional processing needs.
 ```
 python metrics.py -m ./output/fern
 ```
-<br>
+
 
 ## TODO list
 - [x] release the code of the training and looping
 - [ ] release the code for training custom data
 - [ ] release the results reported on our paper.
 
-<br>
+
 ## Acknowledgement
+
 This work is inspired by [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [FSGS](https://github.com/VITA-Group/FSGS). Thanks for their great projects.
 
-<br>
 
 ## Citation
 
