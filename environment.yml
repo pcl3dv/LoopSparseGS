@@ -1,0 +1,22 @@
+name: loopsparsegs
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - torchaudio==0.13.1
+  - pytorch==1.13.1
+  - torchvision==0.14.1
+  - pytorch-cuda=11.7
+  - pip:
+    - submodules/diff-gaussian-rasterization-weights
+    - submodules/simple-knn
+    - tensorboard==2.14.0
+    - plyfile==1.0.3
+    - torchmetrics==1.5.2
+    - matplotlib==3.7.5
+    - opencv-python==4.11.0.86
+    - imageio==2.35.1
+    - timm==1.0.15
+    - pillow==10.4.0
