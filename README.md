@@ -125,7 +125,7 @@ python metrics.py -m ./output/fern
 
 ## Acknowledgement
 
-This work is inspired by [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [FSGS](https://github.com/VITA-Group/FSGS). Thanks for their great projects.
+This work was inspired by [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [FSGS](https://github.com/VITA-Group/FSGS). Thanks for their great projects.
 
 
 ## Citation
