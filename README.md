@@ -21,7 +21,7 @@
     <sup>*</sup>corresponding author
 </div>
 
-### [Paper](https://arxiv.org/abs/2408.00254) | [Project](https://zhenybao.github.io/LoopSparseGS) | Video
+### [Paper](https://arxiv.org/abs/2408.00254) | [Project](https://zhenybao.github.io/LoopSparseGS) | Results
 
 </div>
 
