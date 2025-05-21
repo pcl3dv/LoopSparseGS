@@ -78,7 +78,7 @@ The training paradigm is:
 `training `-> `looping` -> `training` -> `looping` -> `training` ... 
 
 ### 2.1  Training and Looping
-**Scripts**: Your can run the script file to train the LLFF scenes (*e.g.* fern).
+**Scripts**: You can run the script file to train the LLFF scenes (*e.g.* fern).
 
 ```
 cd LoopSparseGS
